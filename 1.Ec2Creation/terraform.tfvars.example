@@ -1,0 +1,4 @@
+project_id       = "my-gcp-project-id"
+credentials_file = "/path/to/service-account-key.json"
+machine_type     = "e2-medium"
+instance_tags    = ["web", "prod"]

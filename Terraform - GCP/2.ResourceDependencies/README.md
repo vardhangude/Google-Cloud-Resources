@@ -7,7 +7,7 @@ It covers:
 - Provider configuration for Google Cloud
 - Implicit and explicit resource dependencies
 - Dependency graph visualization
-
+This project is based on the GCP DEVOPS certification Course
 ---
 
 ## 📁 Repository Structure
@@ -68,7 +68,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ## 👤 Author
-**[Your Name]**  
+**Vardhan Gude**  
 Cloud Infrastructure Engineer | Terraform Practitioner  
-🔗 LinkedIn: [your-linkedin-profile]  
-📧 Email: your.email@example.com
+<!-- 🔗 LinkedIn: [your-linkedin-profile]  -->
+📧 Email: vardhangudeat@example.com
